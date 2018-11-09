@@ -1,0 +1,43 @@
+* {
+  max-width: 1260px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+.result {
+  width:  150px;
+  margin: 0 auto;
+  display:  block;
+  font-size: 2em;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.wrapper Button {
+  flex: 1;
+  padding:  10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Title {
+  font-size:  1.2rem;
+}
+
+.Url {
+  font-size : 1rem;
+  color: green;
+}
+
+.By {
+  font-size: 1rem;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+.Card {
+  padding: 10px;
+}
